@@ -1,0 +1,22 @@
+[
+  {
+    "sender": "contact",
+    "content": "هل لكم فرع في مصر؟"
+  },
+  {
+    "sender": "contact",
+    "content": "شكرا خلاص"
+  },
+  {
+    "sender": "user",
+    "content": "يسعد صباحك"
+  },
+  {
+    "sender": "user",
+    "content": "اتفضل كيف اقدر اساعدك "
+  },
+  {
+    "sender": "contact",
+    "content": "شكرا لك"
+  }
+]
