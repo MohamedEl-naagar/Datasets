@@ -1,0 +1,6959 @@
+[
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "notifications@bevatel.com <notifications@bevatel.com>\tSun, Jan 11, 2026 at 9:22 AM"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "I need support on Bevatel Business Chatdescription"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📝مدير الحساب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 📝مدير الحساب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم مدير الحساب بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed Mawad"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "hello sir"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed Mawad"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "how can I help you"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم عندي كم استفسار ، كيف ممكن اوثق الحساب عشان اقدر اضيف اكثر من رقم ؟ وهل في طريقة اقدر اطلع فيها احصائية للعملاء من اي حملة او اعلان العميل جاي بدون ما اضطر اغلق المحادثات ؟ وكيف افعل خاصية تقييم الموظفين ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed Mawad"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "متطلبات التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌الشهادة الضريبية:"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌نسخة من الشهادة الضريبية الخاصة بالشركة."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌السجل التجاري:"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌نسخة من السجل التجاري الذي يتضمن معلومات الشركة."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌العنوان الوطني:"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌نسخة من العنوان الوطني الخاص بالشركة."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌كشف حساب خدمات اتصالات - فاتورة هاتف:"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📍فاتورة لخدمات الاتصالات (هاتف) ويجب أن تكون باسم الشركة. يرجى التأكد من أن الفاتورة تعود إلى أي رقم تابع للشركة."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌صفحة فيسبوك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌حساب انستجرام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📌توثيق الموقع عن طريق اضافة الMeta tag بالكود الخاص بالموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ويرجى التواصل معنا على رقمنا الموحد 920007031"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed Mawad"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في بالاعدادات انه يتم اغلاق المحادثة بعد 24 ساعة من الرد الدعم الفني هيوضحها ليه والتقييم برضو متاح من خلالهم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed Mawad"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تحب احول حضرتك عليهم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم اهلا بحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بالنسبة للحملات حضرتك تقدر تطلع على تقرير خاص بيها من خلال ايقونة التقارير ثم رسائل البث بتوضح العدد اللي وصله واللي لم يصل بالاضافة لسبب عدم الوصول"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وممكن التحصل على ملف يحوي ارقام اللي لم تصل لهم الحمله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وبالنسبة لخاصية التقييم يمكن تفعليها عن طريق ارسال رساله تقييم اتوماتيك من الرد الالي فور انتهاء المحادثة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وهذه الخاصة ممكن حضرتك ترسل لنا ايميل لنقزم بتنفيذها لك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "businesschat@bevatel.com"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وهذا هو الايميل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "واضح الامر مع حضرتك؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Second No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نود إبلاغكم بأنه سيتم إغلاق المحادثة تلقائيًا خلال 5 دقائق في حال عدم تلقي أي رد منكم. لا تترددوا في التواصل معنا إذا كنتم بحاجة إلى مزيد من المساعدة!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "متطلبات التوثيق كيف يتم اضافتها ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "📝مدير الحساب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 📝مدير الحساب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم مدير الحساب بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "متطلبات التوثيق كيف يتم اضافتها ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل نضيفها في الموقع نفسه او نرسلها على ايميل الدعم او كيف الطريقة بالضبط ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وبالنسبة للحملات اقصد الحملات الخارجية من تطبيقات التواصل اللي بتتوجه للواتساب هل اقدر اطلع تقارير لها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن توضيح هذه الجزئيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يعني هل في طريقة اقدر اشوف بيها احصائية للاشخاص اللي جايين من الحملات الخارجية من كل اعلان كم عميل مثلا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "من هنا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بيظهرلي فارغ"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر قناه التواصل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برضو ما ظهر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن اختيار الكمبين"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هي الحملة تم اطلاقها في الميتا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك لم تطلقها من بيفاتل؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "التقارير خاصه بالحملات التي من بيفاتل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اي انا بسأل هل في اي طريقة ممكن اعرف بيها احصائيات الحملات الخارجية ؟ ولا لازم تكون فقط من بيفاتل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا للاسف بيفاتل فقط"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اي استفسار اخر عند حضرتك الى الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن رقم الاكونت فضلا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "من وين اطلع رقم الاكاونت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن الايميل الي بتتسجل بيه علي بيفاتل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "عشان التوثيق ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا برفع فقط رقم الاكونت من خلاله لا شي اخر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب التوثيق هل اقدر اعمله الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ameen.aleed@hotmail.com"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هبعت لحضرتك متطلبات التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بس هل حضرتك ممكن تبعتلي الايميل الي بيتم بي دخول علي المنصه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "aleed.rec@gmail.com"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "المعذره هذا مو اللي قبل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يعني اي ايميل الان لما حضرتك بتسجل في منصه البيزتس شات ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك معي ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا الايميل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا الايميل غير موجود علي المنصه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن رقم الاكاونت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "acc"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب هذا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "غير موجود ايضا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن بالرقم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "+966920007565"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كان في جروب واتساب خاص بحضراتكم كان اسم الجروب في رقم الاكاونت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب وش اسم القروب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا الي بقول لحضرتك تبحث عليه من خلال حضرتك لان اسم الجروب هوا رقم الاكاونت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ACC2574"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام لحظات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن الدخول علي حساب مدير الاعمال ثم مركز الامان واخد اسكرين وارساله لي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لازم من الحساب الرئيسي ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "انا حسابي حساب موظف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "من وين"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل حضرتك ادمن علي حساب مدير الاعمال ليس منصه البزنس شات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "قصدك الميتا ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "صحيح"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الفتح من ايميل ادمن والدخول علي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": ".."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل متاح اني ديسك مع حضرتك وارسال الكود لي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "راح انزله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1772941492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام بدخل مع حضرتك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برجاء القبول"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام هبعت لحضرتك الان متطلبات التوثيق والاوراق الي حضرتك هتجهزها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اوك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "متطلبات التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الأوراق المطلوبة لتوثيق حساب فيسبوك مدير الأعمال:"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1- الشهادة الضريبية."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "VAT"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "2- السجل التجاري."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Commercial Register"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "3- العنوان الوطني."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "National Address"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "4- كشف حساب خدمات اتصالات - فاتورة هاتف -  (فاتورة تنتمي لأي رقم تابع للشركة)."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Utility Bill"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نحتاج ان يتم إضافة الاسم الموجود في السجل التجاري الخاص بكم ( مثال .:. شركة بيفاتل لخدمات الكول سنتر ) في صفحه من نحن (about us) في الموقع الالكتروني الخاص بالشركة."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى التأكد من أن جميع الوثائق تحمل اسم الشركة التجارية بالشكل الصحيح، كما هو مذكور في المثال (شركة بيفاتل لخدمات الكول سنتر)."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وايضا تطابق العنوان فى الاوراق المرفقة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذي المستندات هل باقي اي شي غيرهم ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام لحظات بس للمراجعه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برجاء الاحتفاظ بهذه النسخه علي الجهاز عند حضرتك سوف نحتاجها عند تقديم الاوراق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بدخل مع حضرتك اني ديسك الان لبد"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 772 941 492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برجاء ادخال كلمه المرور"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برجاء ادخال رقم الهاتف وهييجي عليه دلوقتي رمز تأكيدي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في رساله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن حضرتك ترسلي لينك الموقع الالكتروني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://al-eed.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اعملها لصق فين"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هنطلب من المطور الخاص بحضراتكم اضافه هذا الكود في الهيدر فايل الخاص بالموقع الالكتروني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وبعدين ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هننتظر من 24 الي 72 ساعه للتحقق من النطاق بعد اضافته في الهيدر فايل وسيتبقي خطوة اخيره تقديم الورق لانهاء التقديم علي التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لكن حاليا محتاجين نضيف الكود في الهيدر فايل من قبل المطور الخاص بحضراتكم وننتظر التحقق من النطاق للاستكمال"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام راح اتواصل معاه الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام مفيش مشكله بعد الاضافه هننتظر من 24 الي 72 ساعه للتحقق من النطاق بعد الاضافه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمت اضافته"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هننتظر زي ما قلت حضرتك بحد ادني 24 ساعه وحد اقصي 72 ساعه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "صباح الخير ، هل نقدر الان نعمل التوثيق ولا باقي ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن ارسال اني ديسك لتتحقق من النطاق الي ضفناه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كيف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ارسل كود الاني ديسك فضلا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يب يب ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 772 941 492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لم يتم اضافه الكود بشكل صحيح في الهيدر فايل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم ارسال الكود للمطور وقال انه تم اضافة الكود"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجي التأكد من المطور انه تم اضافه الكود بشكل صحيح"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ارسل انه يوجد خطأ"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب كيف اتاكد اذا كان بالشكل الصحيح او لا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اذا اضاف بشكل صحيح ممكن حضرتك تجربه الي عملنا الان التحقق من النطاق واذا ظهر تم التحقق كدا اتضاف بشكل صحيح"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام راح ارجع اتاكد"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مفيش مشكله في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم صباح الخير"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كذا يعني زبط وتم الاضافة صح ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن ارسال اني ديسك للتأكد والمراجعة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 772 941 492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كدا تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كتابه الرقم الي في فاتورة الهاتف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن كتابه الرقم الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الي موجود في فاتوره الهاتف رقم الشركه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ببحث عنه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ما لقيته"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك هتفتح ملف فاتوره الهاتف الي حضرتك ارسلتها الرقم هتلاقي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اسمه رقم الخدمه الرئيسي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بس دا مش رقم جوال"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "عادي ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "موجود هنا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هوا في مشكلتين الان بالنسبه لفاتوره الهاتف المشكله الاولي ان العنوان في فاتوره الهاتف مختلف عن السجل التجاري والعنوان الوطني ايضا لا يوجد بها رقم هاتف صالح يجب ان يكون بها رقم الشركه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب ايش الحل ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ان حضرتك توفر فاتوره هاتف بها العنوان الشركه كما موجود في العنوان الوطني والشهاده الضريبية وايضا فاتوره بها رقم الشركه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام بتاكد من المدير"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام مفيش مشكله في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم تجديد فاتورة الهاتف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل ممكن نستكمل متابع التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل هذه كل الاورق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كل الاوراق ارسلتها قبل هل تحتاج ارسلها مره ثانية ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك معي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "موجوده"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن ارسال اني دسك فضلا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1772941492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن القبول"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العفو"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل فيه مشكله في الانترنت عند حضرتك؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ثواني هغير الشبكه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الشبكه شغاله تمام بس هنا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مش راضي يحمل اي حاجه زي مواضح امام حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن كتابه الرقم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم التقديم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كم ياخذ التقديم تقريبا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "من يوم الي 14 بيكون رد ميتا باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بعدها يتم التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام يعطيك العافية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرًا لحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافيك وبالتوفيق باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Tarek.Abdelraouf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لإختيارك بيفاتيل"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم ورحمة الله وبركاته"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وعليكم السلام ورحمة الله وبركاتة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اهلا بك كيف اقدر اساعدك ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "انا عملت خطوات التوثيق كيف اعرف هل زبط او لا ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يعني كيف اتاكد اذا التوثيق تم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك ارسال اني ديسك اشيك مع حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 772 941 492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برسل لحضرتك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ايش الحل طيب ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك محتاج تضيف الاسم التجاري في الموقع يكون مطابقا لاسم السجل التجاري كما موضح من قبل ميتا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هو مطابق للاسم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك ارسال السجل التجارب و الموقع الالكتروني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://al-eed.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هيتم المراجعة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام في انتظارك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الاسم الموجود في السجل التجاري غير مطابق للموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ايش الاسم اللي في الموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العيد"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "محتاجين الاسم هذا في الموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شركة العيد لالستقدام شركة مساهمة مقفلة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب ممكن فتح تذكرة تفيد بان المضاف هذا نوع الشركة ( شركة مساهمه مقفله ) الاسم التجاري شركة العيد للاستقدام ومطابق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السجل الفرعي 12-10-2025.pdf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وهذا السجل الفرعي ممكن اضافته"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مفيش مشكلة ممكن ارفع لحضرتك هذا السجل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لكن محتاج حضرتك تضيف الاسم بالكامل الموجود بالسجل في الموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "قصدك شركة مساهمة مقفله؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "محتاجين نضيق اسم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شركة العيد لالستقدام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في الموقع الخاص بحضرتك \\"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السجل الفرعي 12-10-2025.pdf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://aleedrec.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هنستخدم رابط الموقع الفرعي ذا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مفيش مشكلة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك ارسال فاتورة الهاتف للمراجعة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك التواصل لتوضيح الامر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كيف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هاتفيا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بنحتاج الاسم في السجل يكون مطابق لفاتورة الهاتف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اتصل هاتفيا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طبعا الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا هو"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بانتظار حضرتك اضافة الاسم في الموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وفور الانتهاء استاذن حضرتك التواصل معانا مرة اخري لرفع طلب التوثيق مرة اخري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "موافقين باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعد حضرتك في اي شي اخر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يعطيك العافية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافيك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم تم التعديل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لم يتم الاختيار بشكل صحيح يرجي اعادة الاختيار من السؤال التالي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اهلا بك كيف اقدر اساعدك ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أنا أول طلبت إتمام التوثيق وانتظرنا لين بتعدل الشعار بالموقع وتم ممكن تبدون بإجراءات التوثيق؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بالتأكيد دقائق معي من فضلك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لمراجعة المستندات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ابشر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن فاتورة الهاتف التي بها رقم الخدمة الرئيسي؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم مراجعة الأوراق والويبسايت وجميعها جاهزة للتوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لو متاح ندخل اني ديسك نرفع الطلب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الفاتوره هذي الي في الرقم هيا تحتها الأرقام يعني الرقم الموحد تحته هذي الأرقام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم وتم مراجعتها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافيك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ابشر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 772 941 492"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام ندخل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في انتظار قبول الطلب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أي حساب ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "فيسبوك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حساب مدير الأعمال قيد المراجعة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كده تم رفع طلب توثيق من قبل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "فيه شي ثاني تحتاجه؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم رفع الطلب من قبل وهو قيد المراجعة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ولم يمر علي رفعه 14 يوم بعد يمكننا المراجعة بعد 14 يوم من يوم 3 نوفمبر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافيك تحت أمرك أي وقت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن اعرف وش صار على توثيق الحساب؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك الدخول علي حساب مدير الاعمال ثم الاعدادات ثم الدخول علي مركز الامان وارسال صوره من مركز الامان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن صورة كامله للشاشة من حساب مدير الاعمال لدى حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كذا؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن اني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حاضر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بانتظار قبول حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم القبول"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اذا سمحت قدرت تدخل ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كدة الحساب مازال قيد المراجعه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب ممكن اعرف متى يتم التوثيق؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك مقدم على التوثيق من اي تاريخ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الاسبوع اللي فات او اللي قبله انحذفت الرسايل فا ما اعرف متى كان بالضبط اي يوم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هو بوجه عام من ميتا عملية المراجعه قد تطلب او تصل ل 14 يوم فور تخطي هذه المدة ممكن حضرتك تاكد معنا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حاضر تمام يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتعاون حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تحت امرك اكيد واجبنا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اهلا بك كيف اقدر اساعدك ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لو سمحت كملنا أكثر من أسبوع وما تم التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اهلا بحضرتك التوثيق بالفعل ياخد مدة حوالي 14 يوم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل كمل 14 يوم ام لا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك معي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Second No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نود إبلاغكم بأنه سيتم إغلاق المحادثة تلقائيًا خلال 5 دقائق في حال عدم تلقي أي رد منكم. لا تترددوا في التواصل معنا إذا كنتم بحاجة إلى مزيد من المساعدة!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم مر أكثر من 17 يوم ولحد الان ما توثق الحساب ايش السبب؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "14*"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذنك ممكن ارسال اني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حاضر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات معايا فضلا ووسيتم ارسال طلب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقبل فضلا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام الان سيتم رفع تيكت من جانبنا طلب استعجال لميتا للرد علي الطلب التوثيق المرفوع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "omar mostafa"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "خلاص تمام يعطيكم العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافيك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا يعطيكم العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافيك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "باذن الله بعد رفع هذا الاستعجال يتم الرد علينا من قبل ميتا في اسرع وقت بالموافقه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وعليكم السلام ورحمه الله وبركاته"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اهلا بك كيف اقدر اساعدك ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وعليكم السلام ظهر لي كذا في ميتا ايش الحل؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات للمراجعة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أستأذنك محتاجة لينك الويبسايت وكود اني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حاضر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أستأذنك الويبسايت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كيف يعني؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أرسلي الويبسايت الخاص بحضراتكم بشركتكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اتفضل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://al-eed.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات من فضلك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أستاذي الفاضل يجب ذكر الاسم التجاري في صفحة من نحن في الويبسايت مطابق تماما للسجل التجاري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أستأذنك نقبل طلب الاني ديسك لمراجعة إذا كان يوجد أي شئ آخر قد يعيق التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بالفعل المشكلة في موقع الويب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كذلك يوجد بيانات مرفوعة في البيزنس مانجر غير مطابقة لبيانات الأوراق بفيحب تعديلها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تسمحلنا نعدلها ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا الرمز البريدي مضبوط ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "23434"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ثواني اتاكد"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "رقم الهاتف المذكور في الفاتورة هو ما سيتم اضافته في حساب مدير الأعمال"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "126140556"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كده تم ضبط البيانات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "متوقفين فقط علي تعديل الويبسايت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ثواني اتاكد من المدير بخصوص رقم الفاتوره"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اذا سمحت اعتذر بس المدير مشغول بتواصل معاك يوم الاحد باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لو سمحت موجود ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Hadeer Othman"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام ولا يهم حضرتك باذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نود إبلاغكم بأنه سيتم إغلاق المحادثة تلقائيًا خلال 10 دقائق في حال عدم تلقي أي رد منكم. لا تترددوا في التواصل معنا إذا كنتم بحاجة إلى مزيد من المساعدة!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم طلع لي كذا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "فاتورة الكهرباء شارع حراء.pdf"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وهذه الفاتورة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "23522 هذا الرمز البريدي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كدا في مشكله في الاوراق المقدمه هنحتاج نقدم مره اخري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام تحتاج اني ديسك؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "و أرسل لي بالله وش الاوراق اللي تحتاجها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "انا محتاج حضرتك ترسلي الاوراق مره اخري لمراجعتها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السجل التجاري والفاتوره الضريبية وفاتوره الهاتف والعنوان الوطني ولينك الموقع الالكتروني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حاضر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممتاز في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الان راح ارسلها"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ameen.aleed@hotmail.com"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات للمراجعه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "contact",
+      "sender": "126140556",
+      "content": "هل هذا رقم الهاتف الخاص بالشركه ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "محتاج ايضا لينك الموقع الالكتروني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://al-eed.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "محاجين نضيف هذا الاسم ف يالموقع الالكتروني الخاص بحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب يعني افتح اني ديسك ولا كيف ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://www.aleedrec.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممتاز"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اعتذر هذا الرابط ومسجل فيه الاسم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك ارسال اني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برسل لحضرتك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك ممكن تدخلي البيانات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ثواني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك محتاج تضيف هذا الكود في HEADER الموقع الخاص بحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "من قبل قسم المطورين الخاص بحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام صبر بس"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في انتظار حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مضاف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات اشيك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ليس مضاف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بعطيهم خبر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مفيش اي مشكلة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "عند الاضافة تواصل معانا مرة اخري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "جرب الان اذا سمحت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اضفته"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لم يتم اضافة الدومين بعد"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برضوا ما اشتغل؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل تمت اضافة الدومبن للويبسايت ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اتاكد بس"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ظاهر أمامي ان الموقع لم يتم اضافته بعد"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في انتظار حضرتك تضيف الدومين ويتم التحقق منه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا واعتذر ع التاخير الان يتحقق منه المعذره"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مفيش مكشلة تحت أمرك أي وقت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Amira Elzeiny"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم اضافة الدومين كيف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اهلا بك كيف اقدر اساعدك ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن تكمل الاجراء"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل حضرتك ضفت الدومين ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن تتاكد الان ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممتاز"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك ارسال اني ديسك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مازال لم يتم الاضافة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم اضافه الدومين ايش المشكله ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الظاهر امامي لم يتم الاضافة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل تم الاضافة في header الخاص بالموقع"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حضرتك معي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كلمت استاذ امين الحين يشوف ايش المشكله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام مفيش مشكلة فور الانتهاء استاذن حضرتك التواصل معانا لاستكمال التوثيق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "حاضر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافي حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "موفقين بإذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم ، تم اضافة الدومين"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممتاز فضلا ارسال كود اني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لحظات معايا هرسل لحضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقبل فضلا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن توضيح نوع النشاط التجاري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذه المعلومات اللي تحتاجها صح؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "صحيح"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "https://www.aleedrec.com/"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن رفع السجل التجاري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هذا السجل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يجب رفع من جهاز حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن تحميله من الجهاز"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب اعطيني نص ساعه اذا سمحت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اخلص الاجتماع بس"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Asmaa.Hamdy"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ولا يهم حضرتك خد وقتك في انتظارك ان شاء الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "موجوده؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أضفت الملف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "بدخل مع حضرتك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برجاء ارفاق فاتوره الهاتف"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تمام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم التقديم لحضرتك وهننتظر رد ميتا ان شاء الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ان شاء الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الشكر لله هذا واجب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مركز خدمة عملاء بيفاتيل يرحب بكم. يرجي اختيار لغة التواصل."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Welcome to Bevatel support center. Please choose your language."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العربية"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "أختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للتاكيد هل ترغب باختيار قسم 🛠️ الدعم الفني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "نعم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اختر القسم المطلوب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "البيزنس شات 💬"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Main Support AR - CLONE - CLONE - CLONE"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يرجى الانتظار، وسيقوم أحد أعضاء فريق بيفاتيل بيزنس شات بالرد عليكم قريبًا. نحن حالياً نتابع مع عملاء آخرين، ولكن نؤكد أنه سيتم الرد عليكم في أسرع وقت ممكن.، شكرا لتفهمكم🙏."
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "السلام عليكم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "انا طلبت توثيق والان الحساب متعطل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وش اسوي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن اخد اسكرين وارساله لي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ظهرت لحضرتك فين الرساله دي ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في الفيسبوك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الحساب دا كدا اتعطل خلاص ممكن حضؤتك تضغط علي انتقال الي مركز المساعده"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ولاجل التوثيق هنحتاج نفتح حساب اخر له الصلاحيه علي البيزنس مانجر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب فتحت أسوي حساب جديد ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الحساب كان كويس ويشتغل عادي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل حساب حضرتك كان الادمن الوحيد علي حساب مدير الاعمال ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "وليش تعطل ابغا اعرف السبب لو سمحت"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "في اسباب كتير جدا لتعطيل الحساب من ميتا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الحساب كان يشتغل طبيعي لمدة طويله وفجاه قفل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "عشان يتم توثيق حساب مدير الاعمال هنفتح حساب اخر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "معليش اي كان مفقط من مدير الاعمال"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن توضيح اكثر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الحساب كان فقط مع الادمن"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "فليش تقفل؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "للاسف هذا اجراء من ميتا مش هقدر اعرف من خلالي السبب تحديدا"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "كيف نوثق من ميتا طيب ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هنحتاج حسب يكون ادمن علي حساب مدير الاعمال وتجهيز هذه الاوراق"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1- مستند للسجل التجاري/ عقد التأسيس/ كشف الحساب البنكي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يجب توافر احدى المستندات السابقة على الأقل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "2- مستند فاتورة ضريبة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "3- مستند للعنوان الوطني"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "4- مستند فاتورة هاتف باسم المؤسسة ( مستند رسمي يحمل اسم المؤسسة ورقم هاتف)"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "5- توافر موقع الكتروني به صفحة من نحن"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "--------------------"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ملاحظات عامة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "- يجب أن يتطابق اسم المؤسسة بكافة المستندات"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "- يجب أن تكون المستندات المقدمة سارية وصالحة للاستخدام بتاريخ الرفع والتقديم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "- يجب ن يتطابق اسم المؤسسة بالمستندات مع الموقع الالكتروني  في صفحة من نحن"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "- يجب تطابق عنوان المؤسسة بالمستندات المقدمة"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب لو سمحت فتح حساب ميتا عندي مو اللي ارسلته فا ممكن اعرف كيف اتحقق اذا تم التوثيق او لا ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "هل حضرتك قدمت علي التوثيق ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يب انا قدمت اول فا ممكن اعرف كيف قدمت يوم ١٦ ديسمبر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن اعرف كيف اعرف اذا توثق؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "قدمت يو ١٦ ديسمبر"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الدخول علي الاعدادات ثم مركز الامان واخد اسكرين وارساله لي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "karim nour"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ممكن ارسل كود الاني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "1 144 154 446"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برسل لحضرتك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "تم"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "استاذن حضرتك الدخول بصفحة الفيسبوك ليس الانستجرام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "طيب ادخل مره ثاني اني ديسك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اكيد مع حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "برسل لحضرتك الان"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Attachment [Click here to view]"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "محتاجين الدخول بصفحة فيسبوك ليس انستجرام"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "متعطل الفيسبوك 🙂"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "محتاجين الدخول بصفحة فيسبوك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لكي نشيك علي الحساب موثق ام لاظ"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يب مو طلع عندك طيب انه متعطل خلاص بنسوي حساب جديد ولا بشوف كيف افتح الحساب"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "مفيش مشكلة حضرتك ممكن تنشي حساب وتتواصل معانا مرة اخري"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الله يعافي حضرتك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "First No Response.Ar"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "اقدر اساعدك في شئ اخر ؟"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "لا شكرا لك"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Aleed Marketing Team"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "يعطيك العافيه"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "الشكر لله هذا واجبي"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "العفو ، موفقين بإذن الله"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Mohamed matwly"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكراً لتواصلك مع بيفاتيل"
+    },
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "ًو نتمنى لك يوما سعيدا"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "شكرا لتواصلكم معنا Thank you for contacting us"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "sender": "Agent",
+      "content": "Powered by Bevatel Business Chat"
+    }
+  ]
+]

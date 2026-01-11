@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "labels": ["اندونيسيا"],
+    "contact": {
+      "custom_attributes": {
+        "Inbox": "Hojuzat"
+      }
+    }
+  },
+  "messages": [
+    {"text": "مرحبا"},
+    {"text": "عايز برنامج سياحي"}
+  ]
+}
